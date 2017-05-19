@@ -1,4 +1,4 @@
-# Jd¡ª¡ªscraper
+# Jd_scraper
 ## Pythonversion:
 3.6.0
 
